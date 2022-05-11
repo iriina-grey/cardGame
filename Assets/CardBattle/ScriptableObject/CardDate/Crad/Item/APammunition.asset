@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0862afb287ff42d448ae7c84d8dcb0cb, type: 3}
+  m_Name: APammunition
+  m_EditorClassIdentifier: 
+  cardName: APammunition
+  cardID: TMEAP
+  sprite: {fileID: 21300000, guid: b3e8d5a58732bcd44b32ff29249ceb8a, type: 3}
+  spend: 5
+  targetType: 0
+  enemyUsing: 0
+  cardInfo: "\u4E0B\u4E00\u6B21\u653B\u51FB\u65E0\u89C6\u62A4\u76FE"
